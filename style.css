@@ -1,0 +1,97 @@
+header {
+    display: flex;
+    gap: 100px;
+    margin-top: 71px;
+    margin-left: 310px;
+
+    width: 71px;
+    height: 19px;
+    opacity: 1;
+
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-left: 310px;
+}
+
+img {
+    width: 420px;
+    height: 280px;
+    opacity: 1; 
+    margin-top: 50px;
+}
+
+h4 {
+    margin-top: 62px;
+    width: 64px;
+    height: 16px;
+    opacity: 1;
+    font-family: Ubuntu;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #B4AD9E;
+}
+
+h1 {
+    width: 420px;
+    height: 80px;
+    margin-top: 32px;
+    opacity: 1;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #626262;
+}
+
+p {
+    width: 420px;
+    height: 76px;
+    margin-top: 10px;
+    opacity: 1;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #626262;
+}
+
+button {
+    width: 165px;
+    height: 60px;
+    top: 2110px;
+    left: 506px;
+    opacity: 1;
+    width: 68;
+    height: 19;
+    opacity: 1;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #626262;
+    margin-left: 580px;
+    margin-top: 94px;
+    padding-top: 20px;
+    padding-left: 49px;
+    padding-bottom: 21px;
+    padding-right: 48px;
+    background: none;
+}
+
+section {
+    display: flex;
+    gap: 65px;
+    justify-content: center;
+}
+
+.w {
+    color: #3FAA3F;
+}
